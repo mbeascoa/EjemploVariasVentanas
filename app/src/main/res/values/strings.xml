@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploVariasVentanas</string>
+    <string name="btnButton2">Volver a página 1</string>
+    <string name="btnButton1">Ir a la página  2</string>
+    <string name="txtPagina1">Pagina 1</string>
+    <string name="txtPagina2">Pagina 2</string>
+</resources>
